@@ -79,7 +79,7 @@ Organizar por funcionalidad, mismo orden que la tabla de funcionalidades:
 
 ## Entregables de este avance
 - `Avance1_Requisitos_Cliente.md` (+ carpeta `img/`) — documento completo con capturas reales embebidas: tabla de funcionalidades + 7 bloques de requisitos RF (19 RFs en total) + 2 hallazgos de gap funcional + resumen de riesgos observados.
-- **Slides para la exposición:** https://claude.ai/artifact/USgQLNWuYJsgrCm4FL5UCc — 15 diapositivas (portada, objetivo, mapa de funcionalidades, 5 bloques de funcionalidad con evidencia+tabla RF, hallazgos wishlist/gift card, riesgos, cierre).
+- **Slides para la exposición:** https://claude.ai/artifact/USgQLNWuYJsgrCm4FL5UCc — 18 diapositivas (portada, preámbulo del caso de negocio, requisitos funcionales clave y no funcionales/riesgos del enunciado original, objetivo, mapa de funcionalidades, 5 bloques de funcionalidad con evidencia+tabla RF, hallazgos wishlist/gift card, riesgos, cierre). Incluye aclaración sobre las rutas hash (`.../#/...`) de la SPA para que se entiendan en la tabla de funcionalidades y en las slides de evidencia.
 
 Ambos basados en exploración en vivo del sitio real (registro, login válido/inválido, navegación por categoría, búsqueda con/sin resultados, agregar/quitar del carrito con verificación de subtotal, checkout con SafePay/MasterCard, historial de pedidos) y en revisión del bundle JS (`main.min.js`) para confirmar la ausencia de wishlist y tarjetas de regalo.
 
